@@ -1,5 +1,5 @@
 # imdb
-Imdb top 1000 filmi için SQL server ve powerbi kullanarak bir dashboard oluşturdum.
+Imdb top 1000 filmi için SQL server ve powerbi kullanarak bir rapor oluşturdum.
 
 ÖZET-1
 Bu sayfada veri seti içindeki en yüksek imdb puanına sahip ilk 10 ve son 10 film, en çok oy alan ilk 20 film, ve meta skoru en yüksek olan 20 filmi gösteren grafikler hazırladım.
